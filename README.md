@@ -16,7 +16,7 @@ A **micro** make tool for Ruby.
 * 100% compatible with Rake's DSL
 * has a readme with features list containing 3 items
 
-## example
+## examples
 
 Meyk tasks are ordinary Ruby scripts that are runnable independently of Meyk.
 Meyk just adds the feature of organization and 100% compatibility with Rake so
